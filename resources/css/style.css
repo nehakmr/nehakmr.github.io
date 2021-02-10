@@ -1,6 +1,38 @@
+html{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+}
+
 h1
 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 100px;
-    color: blueviolet;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h6{
+    font-size: 16px;
+    color:aquamarine;
+
+}
+
+video
+{
+    font-size: 16px;
+    color:aquamarine;
+}
+h2{
+font-weight: 300;
+font-size:42px;
+}
+
+p{
+font-size: 21px;
+color: gray;
+}
+
+.footer p{
+    text-align: right;
+    color:gray;
 }
